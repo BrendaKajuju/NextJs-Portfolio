@@ -47,7 +47,7 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          Hey there! 👋 I'm a full-stack developer skilled in HTML, CSS, Vanilla Javascript, React, Ruby on Rails/Sinatra, and more. Let's create something awesome together! 🚀✨
+          Hey there! 👋 I am a full-stack developer skilled in HTML, CSS, Vanilla Javascript, React, Ruby on Rails/Sinatra, and more. Let us create something awesome together! 🚀✨
         </motion.p>
         <motion.a
           variants={slideInFromLeft(1)}
