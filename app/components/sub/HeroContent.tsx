@@ -36,11 +36,11 @@ const HeroContent = () => {
             Brenda Kajuju 
             </span>
             <span className="text-transparent gap-6 bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
-              {" "}
-            Navigating the Digital Cosmos
-            {" "}
-            
-          </span>
+  {' '}
+  Navigating the Digital Cosmos
+  {' '}
+</span>
+
         </motion.div>
 
         <motion.p
