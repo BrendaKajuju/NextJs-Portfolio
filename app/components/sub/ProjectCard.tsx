@@ -24,8 +24,8 @@ const ProjectCard = ({ src, title, description, url }: Props) => {
         <h1 className="text-2xl font-semibold text-white">{title}</h1>
         <p className="mt-2 text-gray-300">
           {description}{" "}
-          <Link href={url}>
-            <a className="text-blue-500 hover:underline">Learn more</a>
+          <Link href={url} className="text-blue-500 hover:underline">
+            Learn more
           </Link>
         </p>
       </div>
