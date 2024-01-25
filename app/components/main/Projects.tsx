@@ -14,20 +14,20 @@ const Projects = () => {
         <ProjectCard
           src="/narnia.png"
           title="Narnia Library"
-          description="This a React-based web application with a Node.js, Express.js, and MongoDB backend deployed on Vercel. It includes features for user authentication, product management, wishlist, cart management, and order processing. Learn more"
+          description="This a React-based online library application built with React and Ruby on Rails"
           url="https://phase4-finalproject-frontend.vercel.app/"
         />
         <ProjectCard
-          src="/CardImage.png"
-          title="Interactive Website Cards"
-          url=""
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          src="/fhubsite.png"
+          title="Financial Hub"
+          url="https://www.financialhubfx.com/"
+          description=" This is a dynamic company website built with JavaScript and TypeScript"
         />
         <ProjectCard
-          src="/SpaceWebsite.png"
-          url=""
-          title="Space Themed Website"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          src="/sboss.png"
+          url="https://saintboss.com/"
+          title="Saint Boss"
+          description="This is a dynamic company website built with HTML, CSS  and JavaScript"
         />
       </div>
     </div>
